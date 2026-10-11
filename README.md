@@ -25,7 +25,9 @@ Model akhir berupa **Random Forest** yang dibungkus dalam `Pipeline` scikit-lear
 ## Dataset
 
 Data diunduh dari halaman kompetisi Kaggle dan terdiri dari empat file.
+
 Link: https://www.kaggle.com/competitions/structural-damage-classification/data
+
 Letakkan data pada folder data sesuai struktur repository dibawah
 
 | File | Keterangan |
