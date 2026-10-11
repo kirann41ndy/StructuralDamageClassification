@@ -1,0 +1,23 @@
+# Data besar 
+data/*.csv
+!data/.gitkeep
+
+# Cache Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment (pastikan nama foldernya ada di sini)
+env1/
+env/
+venv/
+.venv/
+.env
+
+# Model besar (aktifkan baris ini kalau file .pkl melebihi 100 MB)
+models/*.pkl
+
+# Editor dan OS
+.vscode/
+.DS_Store
+Thumbs.db
